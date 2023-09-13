@@ -1,0 +1,8 @@
+1.- Imagen Portada					//
+2.- Logos RRSS colores					//
+3.- Tamaño imagen irregular en articulos		//	
+4.- Pie de pagina superior Centrado			//		
+5.- Linea Horizontal					//
+6.- Boton sin cambio de cursor				//
+7.- Cerveza gredos Copyright sin negrita		//
+8.- Simbolo Copyright					//
